@@ -39,3 +39,10 @@ public class SpeedTypingCalculator {
 		}
 
 }
+output:
+3
+2
+1
+rabbit car monkey car rent sandal ant fun biscuit rabbit 
+rabbit car monkey car rent sandal ant fun biscuit rabbit
+your wpm is16!
